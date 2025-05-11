@@ -45,13 +45,13 @@ html, body {
 
 nav {
     display: flex;
+    font-weight: bold;
     gap: var(--gap-elementos);
     align-items: center;
 }
 
 nav a {
     text-decoration: none;
-    font-weight: bold;
     color: var(--color_texto);
     transition: color 0.3s ease;
 }
