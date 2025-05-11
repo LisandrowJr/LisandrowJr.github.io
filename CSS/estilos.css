@@ -148,6 +148,7 @@ input[type="submit"] {
     background-color: var(--color_primario);
     color: var(--color_boton);
     border: none;
+    font-weight: bold;
     cursor: pointer;
     padding: 12px 20px;
     border-radius: var(--radio-borde);
