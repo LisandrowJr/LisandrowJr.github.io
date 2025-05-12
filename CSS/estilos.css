@@ -247,12 +247,12 @@ footer a {
 footer img {
     width: 32px;
     height: 32px;
-    filter: invert(90%); /* Iconos gris claro (ajustable) */
+    filter: invert(85%);
     transition: all 0.3s ease;
 }
 
 footer img:hover {
-    filter: invert(100%) brightness(1.5); /* Blanco brillante */
+    filter: invert(100%) brightness(1.5);
     transform: scale(1.15);
     opacity: 1;
 }
@@ -319,7 +319,7 @@ main section img:hover {
     }
     
     footer img {
-        width: 30px;
+        width: 32px;
     }
 }
 
